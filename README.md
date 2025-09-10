@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hello! I am a passionate Computer Engineering student with the ability to create efficient and scalable solutions.
-
+👋 Hello! I am a Computer Engineer passionate about Artificial Intelligence, Machine Learning, and Backend Development. I enjoy building scalable and efficient solutions while continuously improving my skills in modern technologies.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/furkand0nmez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/furkand0nmez) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/furkand0nmez) 
